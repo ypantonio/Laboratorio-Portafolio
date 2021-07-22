@@ -4,9 +4,25 @@
 <img width="500" src="https://img.freepik.com/vector-gratis/programacion-html5-desarrollo-sitios-web-internet-ingenieria-aplicaciones-web-escritura-guiones-optimizacion-codigo-html-programador-solucionando-errores_335657-263.jpg?size=338&ext=jpg" >
 
 ### Información general 📚
-| Institución  | Colegio Santa Catalina Labore
-| ------------ |
-|  Nombre | Yasmin Del Pilar Antonio Pérez
-|  Maestro | Jossue Fuentes
-|   Grado | IV Bachillerato en Computación
-|  Materia | Laboratorio 1
+<table>
+    <tr>
+      <td>Institución</td>
+      <th>Colegio Santa Catalina Labore</th>
+    </tr>
+ <tr>
+      <td>Nombre</td>
+      <th>Yasmin Del Pilar Antonio Pérez</th>
+    </tr>
+ <tr>
+      <td>Maestro</td>
+      <th>Jossue Fuentes</th>
+    </tr>
+ <tr>
+      <td>Grado</td>
+      <th>IV Bachillerato en Computación</th>
+    </tr>
+<tr>
+      <td>Materia</td>
+      <th>Laboratorio 1</th>
+    </tr>
+	</table>
