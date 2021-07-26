@@ -27,7 +27,7 @@
       <th>Laboratorio 1</th>
     </tr>
 	</table>
-# Índice🗂️
+#Índice🗂️
 <img src="https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-blue-minimalist-technology-computer-banner-image_178469.jpg">
 1. Home page
 	1. Frase
