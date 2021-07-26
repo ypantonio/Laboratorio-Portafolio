@@ -32,11 +32,13 @@
 <ul>
 📌Home page
 	<li>Frase</li>
-        <li>Botones</li> 
+        <li>Botón perfil</li> 
+	<li>Botón github</li>
 	<li>Menú </li>
 </ul>
 <ul>
 📌Glosario
 	<li>Etiquetas HTML y CSS</li>
 	<li>Etiquetas css que se utilizan en HTML</li>
+	<li>Imágenes por cada etiqueta</li>
 </ul>
