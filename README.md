@@ -29,12 +29,14 @@
 	</table>
 <h1>Índice🗂️</h1>
 <img src="https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-blue-minimalist-technology-computer-banner-image_178469.jpg">
-<ol>Home page
+<ul>
+📌Home page
 	<li>Frase</li>
         <li>Botones</li> 
 	<li>Menú </li>
-</ol>
-<ol>Glosario
+</ul>
+<ul>
+📌Glosario
 	<li>Etiquetas HTML y CSS</li>
 	<li>Etiquetas css que se utilizan en HTML</li>
-</ol>
+</ul>
