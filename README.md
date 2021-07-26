@@ -28,7 +28,7 @@
     </tr>
 	</table>
 <h1>Índice🗂️</h1>
-<img src="https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-blue-minimalist-technology-computer-banner-image_178469.jpg">
+<img width="450px" src="https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-blue-minimalist-technology-computer-banner-image_178469.jpg">
 <ul>
 📌Home page
 	<li>Frase</li>
