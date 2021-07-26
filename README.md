@@ -27,12 +27,14 @@
       <th>Laboratorio 1</th>
     </tr>
 	</table>
-#Índice🗂️
+<h1>Índice🗂️</h1>
 <img src="https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-blue-minimalist-technology-computer-banner-image_178469.jpg">
-1. Home page
-	1. Frase
-	1. Botones 
-	1. Menú 
-1. Glosario
-	1. Etiquetas HTML y CSS
-	1. Etiquetas css que se utilizan en HTML
+<ol>Home page
+	<li>Frase</li>
+        <li>Botones</li> 
+	<li>Menú </li>
+</ol>
+<ol>Glosario
+	<li>Etiquetas HTML y CSS</li>
+	<li>Etiquetas css que se utilizan en HTML</li>
+</ol>
