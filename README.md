@@ -1,7 +1,7 @@
 <img width="100" src="https://lh3.googleusercontent.com/GTJGPJFfwhTJ84me5ji7HEJFMiZVuJyvv_aCrmscODyQYiEMU75ltO_x3vNRbC5ideQ">
 
 # Portafolio III Período 💻
-<img width="100%" src="https://img.freepik.com/vector-gratis/programacion-html5-desarrollo-sitios-web-internet-ingenieria-aplicaciones-web-escritura-guiones-optimizacion-codigo-html-programador-solucionando-errores_335657-263.jpg?size=338&ext=jpg" >
+<img width="500px" src="https://img.freepik.com/vector-gratis/programacion-html5-desarrollo-sitios-web-internet-ingenieria-aplicaciones-web-escritura-guiones-optimizacion-codigo-html-programador-solucionando-errores_335657-263.jpg?size=338&ext=jpg" >
 <h4>Año 2021</h4>
 
 ### Información general 📚
@@ -28,7 +28,7 @@
     </tr>
 	</table>
 <h1>Índice🗂️</h1>
-<img width="450px" src="https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-blue-minimalist-technology-computer-banner-image_178469.jpg">
+<img width="100%" src="https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-blue-minimalist-technology-computer-banner-image_178469.jpg">
 <ul>
 📌Home page
 	<li>Frase</li>
