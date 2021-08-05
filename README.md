@@ -56,3 +56,8 @@
       <th>Adaptarme y seguir practicando.</th>
     </tr>
 </table>
+<h1>Objetivo Futuro✏️</h1>
+<ul>
+   📋Organización
+	<li>Tener una mejor organización respecto al código <br> para obtener mejores resultados.</li>
+</ul>
