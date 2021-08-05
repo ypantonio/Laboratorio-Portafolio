@@ -41,3 +41,18 @@
 	<li>Etiquetas css que se utilizan en HTML</li>
 	<li>Imágenes por cada etiqueta</li>
 </ul>
+<h1>Objetivos📖</h1>
+<table>
+    <tr>
+      <td>🔍Saber</td>
+      <th>Organizar y analizar perfectamente el código.</th>
+    </tr>
+ <tr>
+      <td>🔍Saber hacer</td>
+      <th>Manejar y trabajar de forma ordenada y clara cada trabajo.</th>
+    </tr>
+ <tr>
+      <td>🔍Saber ser y estar</td>
+      <th>Adaptarme y seguir practicando.</th>
+    </tr>
+</table>
