@@ -4,7 +4,7 @@
 <img width="100%" src="https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-blue-minimalist-technology-computer-banner-image_178469.jpg">
 <h3>Año 2021</h3>
 
-<h3>Información general </h3>📚
+<h3>Información general 📚</h3>
 <table>
     <tr>
       <td>Institución</td>
